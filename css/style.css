@@ -26,4 +26,4 @@ figcaption {
   text-align: right;
 }
 /* Class selector (applied to as many elements as you like) */
-.milk-text
+.milk-text {/* select elements with class attribute class="milk-text"  */
